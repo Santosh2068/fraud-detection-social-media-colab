@@ -189,7 +189,7 @@ The project is based on my MSc IT dissertation:
 **Natural Language Processing with Text Mining Approach for Fraud Detection in Social Media Platforms**
 
 University of the West of Scotland (UWS), London Campus  
-Programme: MSc Information Technology — Data Analytics pathway  
+Programme: MSc Information Technology. 
 Completion: December 2023
 
 If permitted for public distribution, the full dissertation or an appropriate summary can be accessed from the `Reports/` directory.
